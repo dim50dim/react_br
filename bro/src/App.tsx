@@ -1,6 +1,5 @@
-import Food from "./components/Food"
-import Footer from "./components/Footer"
-import Header from "./components/Header"
+
+import Student from "./components/Student"
 
 
 function App() {
@@ -8,9 +7,7 @@ function App() {
 
   return (
     <>
-    <Header/>
-    <Food/> 
-    <Footer/>
+<Student/>
     </>
   )
 }
