@@ -1,4 +1,4 @@
-export default function Header(props: number) {
+export default function Header() {
     return(
         <>
              <header>
