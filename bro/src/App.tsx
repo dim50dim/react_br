@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-<Student/>
+<Student name ='Mike' age={54} isStudent={false}/>
     </>
   )
 }
